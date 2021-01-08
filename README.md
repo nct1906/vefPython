@@ -1,2 +1,2 @@
-# vefPython
-Python
+# Python
+Think Python Exercises
